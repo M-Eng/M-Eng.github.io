@@ -1,11 +1,13 @@
 {% include base_path %}
 
-{{ teaser | prepend: "/images/" | prepend: base_path }}
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
+
+{{ teaser | prepend: "/images/" | prepend: base_path }}
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
