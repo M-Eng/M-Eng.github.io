@@ -1,4 +1,6 @@
 ---
+header:
+  teaser: 'beans-in-burger-teaser.png'
 title: "Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization"
 collection: publications
 permalink: /publication/beans-in-burger
@@ -7,8 +9,6 @@ date: 2018-06-18
 venue: 'CVPR'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 authot: 'Engilberge, Martin and Chevallier, Louis and Perez, Patrick and Cord, Matthieu'
-header:
-  teaser: 'beans-in-burger-teaser.png'
 ---
 
 
