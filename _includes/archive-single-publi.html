@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{{post.header.teaser}}
+{{ teaser | prepend: "/images/" | prepend: base_path }}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
