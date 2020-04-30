@@ -7,7 +7,8 @@ date: 2018-06-18
 venue: 'CVPR'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 authot: 'Engilberge, Martin and Chevallier, Louis and Perez, Patrick and Cord, Matthieu'
-teaser: 'beans-in-burger-teaser.png'
+header:
+  teaser: 'beans-in-burger-teaser.png'
 ---
 
 
