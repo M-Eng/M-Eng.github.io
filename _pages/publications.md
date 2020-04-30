@@ -1,8 +1,9 @@
 ---
 layout: archive
 title: "Publications"
-# permalink: /publications/
+permalink: /publications/
 author_profile: true
+published: false
 ---
 
 {% if author.googlescholar %}
