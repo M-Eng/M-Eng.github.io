@@ -57,11 +57,11 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 </pre>
 
 <div class="notice--info">
-@inproceedings{engilbergeFinding2018,
-  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
-  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
-  year = {2018},
-  pages = {3984--3993}
-}
+>@inproceedings{engilbergeFinding2018,
+>  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
+>  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+>  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
+>  year = {2018},
+>  pages = {3984--3993}
+>}
 </div>
