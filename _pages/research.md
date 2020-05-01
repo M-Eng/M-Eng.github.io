@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+type: grid
 ---
 
 {% include toc %}
@@ -14,5 +15,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single-publi.html type="grid" teas=true %}
+  {% include archive-single-publi.html %}
 {% endfor %}
