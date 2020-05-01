@@ -9,7 +9,9 @@ entries_layout: "grid"
 # toc_icon: "cog"
 ---
 
+{% comment %}
 <!-- {% include toc %} -->
+{% endcomment %}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -18,6 +20,9 @@ entries_layout: "grid"
 {% include base_path %}
 
 {% include publi_grid_wrapper.html %}
+
+{% comment %}
 <!-- {% for post in site.publications reversed %}
   {% include archive-single-publi.html type="grid" %}
 {% endfor %} -->
+{% endcomment %}
