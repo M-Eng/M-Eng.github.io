@@ -13,5 +13,5 @@ published: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html type="grid" teaser=false %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
