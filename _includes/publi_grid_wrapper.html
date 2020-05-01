@@ -1,7 +1,7 @@
 {% include base_path %}
 
+<div class="grid__wrapper">
 {% for post in site.publications reversed %}
-    <div class="grid__wrapper">
       {% include archive-single-publi.html type="grid" %}
-    </div>
 {% endfor %}
+</div>
