@@ -7,7 +7,7 @@ permalink: /publications/color-representation-dnn
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-09-17
 venue: 'ICIP'
-paperurl: 'http://academicpages.github.io/files/papers/Engilberge-2017-ColorRepresentationinDeepNeuralNetworks.pdf'
+paperurl: 'http://m-eng.github.io/files/papers/Engilberge et al. - 2017 - Color representation in deep neural networks.pdf'
 posterurl: 'http://m-eng.github.io/files/posters/color-rep-poster.pdf'
 author: 'Engilberge, Martin and Collins, Edo and Susstrunk, Sabine'
 ---

@@ -7,7 +7,7 @@ permalink: /publications/beans-in-burger
 excerpt: ''
 date: 2018-06-18
 venue: 'CVPR'
-paperurl: 'http://academicpages.github.io/files/papers/Engilberge-2018-FindingBeansinBurgersDeepSemantic-VisualEmb.pdf'
+paperurl: 'http://m-eng.github.io/files/papers/Engilberge et al. - 2018 - Finding Beans in Burgers Deep Semantic-Visual Emb.pdf'
 codeurl: 'https://github.com/M-Eng/dsve-loc'
 posterurl: 'http://m-eng.github.io/files/posters/bean-poster.pdf'
 talkurl: 'http://m-eng.github.io/files/talks/bean-slides.pdf'
