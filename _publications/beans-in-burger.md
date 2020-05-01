@@ -39,8 +39,8 @@ If you found this work useful, please cite the associated paper:
 M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
 </div>
 
-**BibTex:**
 <div class="notice--info" markdown="1">
+**BibTex:**
 ~~~~~~~~
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
