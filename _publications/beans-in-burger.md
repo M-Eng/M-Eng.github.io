@@ -29,6 +29,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 
 ## Links
 
+{{% paperurl %}}
 {% if paperurl %}
     <a href=" {{ paperurl }} " class="btn btn--info">Paper</a>
 {% endif %}
@@ -88,6 +89,11 @@ any input image, delivering state-of-the-art result on the visual grounding of p
   pages = {3984--3993}
 }
 ```
+</div>
+
+
+<div class="notice--info">
+M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in CVPR, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
 </div>
 
 
