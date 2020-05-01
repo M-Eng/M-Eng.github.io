@@ -29,6 +29,22 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 
 ## Links
 
+{% if post.paperurl %}
+    <a href=" {{ post.paperurl }} " class="btn btn--info">Paper</a>
+{% endif %}
+{% if post.codeurl %}
+    <a href=" {{ post.codeurl }} " class="btn btn--info">Code</a>
+{% endif %}
+{% if post.dataurl %}
+    <a href=" {{ post.dataurl }} " class="btn btn--info">Data</a>
+{% endif %}
+{% if post.posterurl %}
+    <a href=" {{ post.posterurl }} " class="btn btn--info">Poster</a>
+{% endif %}
+{% if post.talkurl %}
+    <a href=" {{ post.talkurl }} " class="btn btn--info">Talk</a>
+{% endif %}
+
 ## Citation
 <pre>
 @inproceedings{engilbergeFinding2018,
@@ -39,3 +55,11 @@ any input image, delivering state-of-the-art result on the visual grounding of p
   pages = {3984--3993}
 }
 </pre>
+
+@inproceedings{engilbergeFinding2018,
+  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
+  year = {2018},
+  pages = {3984--3993}
+}{: .notice--info }
