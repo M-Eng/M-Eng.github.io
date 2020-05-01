@@ -29,21 +29,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 
 ## Links
 
-{% if page.paperurl %}
-  [Paper]({{ page.paperurl }}){: .btn .btn--info}
-{% endif %}
-{% if page.codeurl %}
-  [Paper]({{ page.codeurl }}){: .btn .btn--info}
-{% endif %}
-{% if page.dataurl %}
-  [Data]({{ page.dataurl }}){: .btn .btn--info}
-{% endif %}
-{% if page.posterurl %}
-  [Poster]({{ page.posterurl }}){: .btn .btn--info}
-{% endif %}
-{% if page.talkurl %}
-  [Talk]({{ page.talkurl }}){: .btn .btn--info}
-{% endif %}
+{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Talk]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 
@@ -53,8 +39,8 @@ If you found this work useful, please cite the associated paper:
 M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
 </div>
 
-<div class="notice--info" markdown="1">
 **BibTex:**
+<div class="notice--info" markdown="1">
 <pre><code>
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
@@ -65,53 +51,3 @@ M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers
 }
 </code></pre>
 </div>
-
-
-
-<div class="notice--info">
-<code>
-@inproceedings{engilbergeFinding2018,
-  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
-  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
-  year = {2018},
-  pages = {3984--3993}
-}
-</code>
-</div>
-
-<pre>
-@inproceedings{engilbergeFinding2018,
-  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
-  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
-  year = {2018},
-  pages = {3984--3993}
-}
-</pre>
-
-<div class="notice--info">
-```latex
-@inproceedings{engilbergeFinding2018,
-  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
-  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
-  year = {2018},
-  pages = {3984--3993}
-}
-```
-</div>
-
-
-
-
-
-```
-@inproceedings{engilbergeFinding2018,
-  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
-  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
-  year = {2018},
-  pages = {3984--3993}
-}
-```
