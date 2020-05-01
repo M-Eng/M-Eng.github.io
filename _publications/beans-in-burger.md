@@ -29,21 +29,21 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 
 ## Links
 
-{{% paperurl %}}
-{% if paperurl %}
-    <a href=" {{ paperurl }} " class="btn btn--info">Paper</a>
+{{% page.paperurl %}}
+{% if page.paperurl %}
+  [Paper]({{ page.paperurl }}){: .btn .btn--info}
 {% endif %}
-{% if codeurl %}
-    <a href=" {{ codeurl }} " class="btn btn--info">Code</a>
+{% if page.codeurl %}
+    <a href=" {{ page.codeurl }} " class="btn btn--info">Code</a>
 {% endif %}
-{% if dataurl %}
-    <a href=" {{ dataurl }} " class="btn btn--info">Data</a>
+{% if page.dataurl %}
+    <a href=" {{ page.dataurl }} " class="btn btn--info">Data</a>
 {% endif %}
-{% if posterurl %}
-    <a href=" {{ posterurl }} " class="btn btn--info">Poster</a>
+{% if page.posterurl %}
+    <a href=" {{ page.posterurl }} " class="btn btn--info">Poster</a>
 {% endif %}
-{% if talkurl %}
-    <a href=" {{ talkurl }} " class="btn btn--info">Talk</a>
+{% if page.talkurl %}
+    <a href=" {{ page.talkurl }} " class="btn btn--info">Talk</a>
 {% endif %}
 
 ## Citation
@@ -54,7 +54,7 @@ If you found this work useful, please cite the associated paper:
 M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
 </div>
 
-<div class="notice--info">
+<div class="notice--info" markodwn="1">
 **BibTex:**
 <pre><code>
 @inproceedings{engilbergeFinding2018,
