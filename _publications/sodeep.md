@@ -1,11 +1,11 @@
 ---
 header:
-  teaser: "beans-in-burger-teaser.png"
-title: "Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization"
+  teaser: "sodeep-teaser.png"
+title: "SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates"
 collection: publications
-permalink: /publications/beans-in-burger
+permalink: /publications/sodeep
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-06-18
+date: 2019-06-15
 venue: 'CVPR'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 author: 'Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu'
@@ -13,11 +13,11 @@ author: 'Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, 
 
 
 <pre>
-@inproceedings{engilbergeFinding2018,
-  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
+@inproceedings{engilbergeSoDeep2019,
+  title = {SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates},
   booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
-  year = {2018},
-  pages = {3984--3993}
+  year = {2019},
+  pages = {10792--10801}
 }
 </pre>
