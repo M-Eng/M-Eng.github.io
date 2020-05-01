@@ -1,6 +1,6 @@
 ---
-header:
-  teaser: "beans-in-burger-teaser.png"
+#header:
+  #teaser: "beans-in-burger-teaser.png"
 title: "Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization"
 collection: publications
 permalink: /publication/beans-in-burger
