@@ -1,9 +1,10 @@
 {% include base_path %}
 
-<div class="cf">
-  <div class="grid__wrapper">
-  {% for post in site.publications reversed %}
-        {% include archive-single-publi.html type="grid" %}
-  {% endfor %}
-  </div>
+
+<div class="grid__wrapper">
+{% for post in site.publications reversed %}
+      {% include archive-single-publi.html type="grid" %}
+{% endfor %}
 </div>
+
+<section class="page__content cf"></section>
