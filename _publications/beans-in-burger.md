@@ -78,9 +78,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 }
 </code>
 
-<div class="notice--primary" markdown="1">
-**Primary Notice with code block:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-
+<div class="notice--info">
 ```latex
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
@@ -91,3 +89,14 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 }
 ```
 </div>
+
+
+```latex
+@inproceedings{engilbergeFinding2018,
+  title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  author = {Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu},
+  year = {2018},
+  pages = {3984--3993}
+}
+```
