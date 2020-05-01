@@ -47,6 +47,15 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 {% endif %}
 
 ## Citation
+
+If you found this work useful, please cite the associated paper:
+
+<div class="notice--info">
+M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
+</div>
+
+<div class="notice--info">
+**BibTex:**
 <pre><code>
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
@@ -56,6 +65,9 @@ any input image, delivering state-of-the-art result on the visual grounding of p
   pages = {3984--3993}
 }
 </code></pre>
+</div>
+
+
 
 <div class="notice--info">
 <code>
@@ -69,7 +81,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 </code>
 </div>
 
-<code>
+<pre>
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
   booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
@@ -77,7 +89,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
   year = {2018},
   pages = {3984--3993}
 }
-</code>
+</pre>
 
 <div class="notice--info">
 ```latex
@@ -92,9 +104,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 </div>
 
 
-<div class="notice--info">
-M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in CVPR, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
-</div>
+
 
 
 ```
