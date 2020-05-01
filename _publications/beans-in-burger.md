@@ -41,7 +41,7 @@ M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers
 
 **BibTex:**
 <div class="notice--info" markdown="1">
-<pre><code>
+'''
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
   booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
@@ -49,5 +49,5 @@ M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers
   year = {2018},
   pages = {3984--3993}
 }
-</code></pre>
+'''
 </div>
