@@ -91,7 +91,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 </div>
 
 
-```latex
+```
 @inproceedings{engilbergeFinding2018,
   title = {Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization},
   booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
