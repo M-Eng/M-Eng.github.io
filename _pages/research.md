@@ -3,10 +3,13 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-type: grid
+entries_layout: grid
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
-{% include toc %}
+<!-- {% include toc %} -->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
