@@ -7,7 +7,7 @@ permalink: /publications/videomem
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-10-27
 venue: 'ICCV'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/papers/Cohendet et al. - 2019 - VideoMem Constructing, Analyzing, Predicting Shor.pdf'
 author: 'Cohendet, Romain and Demarty, Claire-Helene and Duong, Ngoc Q. K. and Engilberge, Martin'
 ---
 
