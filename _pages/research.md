@@ -17,6 +17,7 @@ entries_layout: "grid"
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% include publi_grid_wrapper.html %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single-publi.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
