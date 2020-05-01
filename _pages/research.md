@@ -4,9 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 entries_layout: grid
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+# toc: true
+# toc_label: "My Table of Contents"
+# toc_icon: "cog"
 ---
 
 <!-- {% include toc %} -->
