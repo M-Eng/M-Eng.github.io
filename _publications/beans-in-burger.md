@@ -29,21 +29,20 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 
 ## Links
 
-{{% page.paperurl %}}
 {% if page.paperurl %}
   [Paper]({{ page.paperurl }}){: .btn .btn--info}
 {% endif %}
 {% if page.codeurl %}
-    <a href=" {{ page.codeurl }} " class="btn btn--info">Code</a>
+  [Paper]({{ page.codeurl }}){: .btn .btn--info}
 {% endif %}
 {% if page.dataurl %}
-    <a href=" {{ page.dataurl }} " class="btn btn--info">Data</a>
+  [Data]({{ page.dataurl }}){: .btn .btn--info}
 {% endif %}
 {% if page.posterurl %}
-    <a href=" {{ page.posterurl }} " class="btn btn--info">Poster</a>
+  [Poster]({{ page.posterurl }}){: .btn .btn--info}
 {% endif %}
 {% if page.talkurl %}
-    <a href=" {{ page.talkurl }} " class="btn btn--info">Talk</a>
+  [Talk]({{ page.talkurl }}){: .btn .btn--info}
 {% endif %}
 
 ## Citation
@@ -54,7 +53,7 @@ If you found this work useful, please cite the associated paper:
 M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
 </div>
 
-<div class="notice--info" markodwn="1">
+<div class="notice--info" markdown="1">
 **BibTex:**
 <pre><code>
 @inproceedings{engilbergeFinding2018,
