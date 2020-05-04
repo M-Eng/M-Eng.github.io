@@ -32,7 +32,7 @@ as a proxy for sorting operation in ranking-based losses.
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Talk]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

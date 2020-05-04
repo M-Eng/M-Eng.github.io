@@ -121,6 +121,7 @@
 
   .article_block {
     position: relative;
+    min-height: 20em;
   }
 
   .archive__item-title {
@@ -131,7 +132,7 @@
   .archive__item-links {
     position: absolute;
     margin-bottom: 0.5em;
-    top: 650px;
+    bottom: 0.5em;
   }
 
   .archive__item-excerpt {
