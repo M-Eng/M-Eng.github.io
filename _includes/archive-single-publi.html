@@ -43,9 +43,9 @@
 
     <p>{{ post.authors }}</p>
     <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    
 
-    <div class="archive__item-links"></div>
+
+    <div class="archive__item-links">
     {% if post.paperurl %}
         <a href=" {{ post.paperurl }} " class="btn btn--info">Paper</a>
     {% endif %}

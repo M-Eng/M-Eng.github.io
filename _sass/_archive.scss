@@ -114,6 +114,8 @@
 
 .grid__item {
   margin-bottom: 2em;
+  min-height: 600px;
+  min-height: 600px;
 
   .page__meta {
     margin: 0 0 4px;
@@ -125,7 +127,7 @@
   }
 
   .archive__item-links {
-    margin-top: 10em;
+    margin-bottom: 0.5em;
   }
 
   .archive__item-excerpt {
