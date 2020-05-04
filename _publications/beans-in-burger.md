@@ -11,7 +11,7 @@ paperurl: 'http://m-eng.github.io/files/papers/Engilberge et al. - 2018 - Findin
 codeurl: 'https://github.com/M-Eng/dsve-loc'
 posterurl: 'http://m-eng.github.io/files/posters/bean-poster.pdf'
 talkurl: 'http://m-eng.github.io/files/talks/bean-slides.pdf'
-author: 'Engilberge, Martin and Chevallier, Louis and Pérez, Patrick and Cord, Matthieu'
+authors: 'M. Engilberge, L. Chevallier, P. Pérez, M. Cord'
 ---
 
 ## Abstract
@@ -36,7 +36,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 If you found this work useful, please cite the associated paper:
 
 <div class="notice--info">
-M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993, doi: 10.1109/CVPR.2018.00419.
+M. Engilberge, L. Chevallier, P. Perez, and M. Cord, “Finding Beans in Burgers: Deep Semantic-Visual Embedding with Localization,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2018, pp. 3984–3993
 </div>
 
 <div class="notice--info" markdown="1">
