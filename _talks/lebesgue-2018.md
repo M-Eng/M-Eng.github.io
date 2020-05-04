@@ -2,7 +2,7 @@
 title: "Visual-Semantic Embeddings and their application to localization"
 collection: talks
 type: "Talk"
-permalink: /talks/beans-talk
+permalink: /talks/lebesgue-talk
 venue: "Technicolor R&I"
 date: 2018-09-06
 location: "Rennes, France"
