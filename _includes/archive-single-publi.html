@@ -15,6 +15,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
     <div class="article_block">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -64,5 +65,6 @@
     {% endif %}
     </div>
   </div>
+</a>
   </article>
 </div>
