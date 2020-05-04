@@ -113,11 +113,14 @@
    ========================================================================== */
 
 .grid__item {
-  position: relative;
   margin-bottom: 2em;
 
   .page__meta {
     margin: 0 0 4px;
+  }
+
+  .article_block {
+    position: relative;
   }
 
   .archive__item-title {
