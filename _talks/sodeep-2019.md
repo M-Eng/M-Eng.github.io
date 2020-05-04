@@ -6,7 +6,7 @@ permalink: /talks/sodeep-talk
 venue: "CVPR 2020, Long Beach"
 date: 2019-06-20
 location: "Long Beach, California"
-videourl: "https://www.youtube.com/watch?v=PzALQZOy09c&feature=youtu.be&t=6046"
+videourl: "https://www.youtube.com/PzALQZOy09c&feature=youtu.be&t=6046"
 slidesurl: "http://m-eng.github.io/files/talks/sodeep-slides.pdf"
 ---
 
