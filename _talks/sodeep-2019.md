@@ -10,6 +10,6 @@ videourl: "https://www.youtube.com/embed/PzALQZOy09c?start=6044"
 slidesurl: "http://m-eng.github.io/files/talks/sodeep-slides.pdf"
 ---
 
-A short talk done at CVPR 2020 on our work in the [sodeep project](http://m-eng.github.io/publications/sodeep).
+A short talk done at CVPR 2020 about our work on ranking loss surrogates. More info available on the [sodeep project page](http://m-eng.github.io/publications/sodeep).
 
 <iframe width="560" height="315" src="{{ page.videourl }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

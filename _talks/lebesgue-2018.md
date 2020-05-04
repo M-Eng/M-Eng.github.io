@@ -10,12 +10,7 @@ videourl: "https://www.lebesgue.fr/sites/default/files/video/09_06_AM_sessions_E
 slidesurl: "http://m-eng.github.io/files/talks/bean-slides.pdf"
 ---
 
-A short talk about visual-semantic embeddings and their application to localization based on the work in the [beans in burger project](http://m-eng.github.io/publications/beans-in-burger).
+A short talk about visual-semantic embeddings and their application to localization. More info available on the [beans in burger project page](http://m-eng.github.io/publications/beans-in-burger).
 
-
-
-<video width="480" height="320" controls="controls">
-  <source src="{{ page.videourl }}" type="video/mp4">
-</video>
 
 <iframe src="{{ page.videourl }}" width="560" height="315" frameborder="0" allowfullscreen> </iframe>
