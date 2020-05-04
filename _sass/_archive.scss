@@ -119,6 +119,11 @@
     margin: 0 0 4px;
   }
 
+  .archive__item{
+    min-height: 1200px;
+    max-height: 1200px;
+  }
+
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
