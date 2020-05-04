@@ -15,7 +15,7 @@ A short talk about visual-semantic embeddings and their application to localizat
 
 
 <video width="480" height="320" controls="controls">
-  <source src="{{ page.paperurl }}" type="video/mp4">
+  <source src="{{ page.videourl }}" type="video/mp4">
 </video>
 
-<iframe src="{{ page.paperurl }}" width="560" height="315" frameborder="0"> </iframe>
+<iframe src="{{ page.videourl }}" width="560" height="315" frameborder="0"> </iframe>
