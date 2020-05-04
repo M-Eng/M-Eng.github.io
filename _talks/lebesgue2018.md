@@ -3,7 +3,7 @@ title: "Visual-Semantic Embeddings and their application to localization"
 collection: talks
 type: "Talk"
 permalink: /talks/beans-talk
-venue: "Technicolor, Rennes"
+venue: "Technicolor R&I"
 date: 2018-09-06
 location: "Rennes, France"
 videourl: "https://www.lebesgue.fr/sites/default/files/video/09_06_AM_sessions_ENGILBERGE.mp4"
@@ -18,4 +18,4 @@ A short talk about visual-semantic embeddings and their application to localizat
   <source src="{{ page.videourl }}" type="video/mp4">
 </video>
 
-<iframe src="{{ page.videourl }}" width="560" height="315" frameborder="0"> </iframe>
+<iframe src="{{ page.videourl }}" width="560" height="315" frameborder="0" allowfullscreen> </iframe>

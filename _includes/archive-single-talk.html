@@ -24,8 +24,15 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}, {{post.type}}, {{ post.venue }},  {{post.location}}</p>{% endif %}
+    <div>
+      {% if post.posterurl %}
+          <a href=" {{ post.slidesurl }} " class="btn btn--info">Slides</a>
+      {% endif %}
+      {% if post.talkurl %}
+          <a href=" {{ post.videourl }} " class="btn btn--info">Talk</a>
+      {% endif %}
+      </div>
+
   </article>
 </div>
