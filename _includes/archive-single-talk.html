@@ -26,10 +26,10 @@
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}, {{post.type}}, {{ post.venue }},  {{post.location}}</p>{% endif %}
     <div>
-      {% if post.posterurl %}
+      {% if post.slidesurl %}
           <a href=" {{ post.slidesurl }} " class="btn btn--info">Slides</a>
       {% endif %}
-      {% if post.talkurl %}
+      {% if post.videourl %}
           <a href=" {{ post.videourl }} " class="btn btn--info">Talk</a>
       {% endif %}
       </div>
