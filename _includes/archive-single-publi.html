@@ -44,7 +44,7 @@
     {% endif %}
 
     <p>{{ post.authors }}</p>
-    <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
 
 
     <div class="archive__item-links">
