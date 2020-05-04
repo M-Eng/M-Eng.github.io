@@ -25,6 +25,8 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}, {{post.type}}, {{ post.venue }},  {{post.location}}</p>{% endif %}
+    
+    {% comment %}
     <div>
       {% if post.slidesurl %}
           <a href=" {{ post.slidesurl }} " class="btn .btn--primary">Slides</a>
@@ -33,6 +35,7 @@
           <a href=" {{ post.videourl }} " class="btn .btn--primary">Talk</a>
       {% endif %}
       </div>
-
+    {% endcomment %}
+    
   </article>
 </div>
