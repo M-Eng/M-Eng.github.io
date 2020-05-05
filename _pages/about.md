@@ -12,7 +12,7 @@ Currently looking for a postdoctoral position in machine learning. I previously 
 Before starting doctoral studies, I received a master’s degree in Computer Science from EPFL.  
 I built this page to regroup my research projects and make them more easily accessible.
 
-In addition to my research activity, I am passionate about music, on and endless path to improve my guitar skills. I also appreciate the DIY spirit and dabbled in Guitar building, CNC building and machining, 3D printing and other electronics projects. 
+In addition to my research activity, I am passionate about music, and on an endless path to improve my guitar skills. I also appreciate the DIY spirit and dabbled in Guitar building, CNC building and machining, 3D printing and other electronics projects. 
 
 
 ### News
