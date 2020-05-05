@@ -7,7 +7,7 @@ permalink: /publications/videomem
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-10-27
 venue: 'ICCV'
-paperurl: 'http://m-eng.github.io/files/papers/Cohendet et al. - 2019 - VideoMem Constructing, Analyzing, Predicting Shor.pdf'
+paperurl: '/files/papers/Cohendet et al. - 2019 - VideoMem Constructing, Analyzing, Predicting Shor.pdf'
 dataurl: 'https://www.interdigital.com/data_sets/video-memorability-dataset'
 authors: 'R. Cohendet, C. Demarty, N. Duong, M. Engilberge'
 ---
@@ -33,7 +33,7 @@ with pre-extracted features is publicly available.
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ base_path }}{{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

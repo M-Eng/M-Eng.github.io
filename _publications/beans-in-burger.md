@@ -7,10 +7,10 @@ permalink: /publications/beans-in-burger
 excerpt: ''
 date: 2018-06-18
 venue: 'CVPR'
-paperurl: 'http://m-eng.github.io/files/papers/Engilberge et al. - 2018 - Finding Beans in Burgers Deep Semantic-Visual Emb.pdf'
+paperurl: '/files/papers/Engilberge et al. - 2018 - Finding Beans in Burgers Deep Semantic-Visual Emb.pdf'
 codeurl: 'https://github.com/M-Eng/dsve-loc'
-posterurl: 'http://m-eng.github.io/files/posters/bean-poster.pdf'
-talkurl: 'http://m-eng.github.io/files/talks/bean-slides.pdf'
+posterurl: '/files/posters/bean-poster.pdf'
+talkurl: '/files/talks/bean-slides.pdf'
 authors: 'M. Engilberge, L. Chevallier, P. Pérez, M. Cord'
 ---
 
@@ -29,7 +29,7 @@ any input image, delivering state-of-the-art result on the visual grounding of p
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

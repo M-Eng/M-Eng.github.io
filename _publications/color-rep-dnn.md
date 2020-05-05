@@ -7,8 +7,8 @@ permalink: /publications/color-representation-dnn
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-09-17
 venue: 'ICIP'
-paperurl: 'http://m-eng.github.io/files/papers/Engilberge et al. - 2017 - Color representation in deep neural networks.pdf'
-posterurl: 'http://m-eng.github.io/files/posters/color-rep-poster.pdf'
+paperurl: '/files/papers/Engilberge et al. - 2017 - Color representation in deep neural networks.pdf'
+posterurl: '/files/posters/color-rep-poster.pdf'
 authors: 'M. Engilberge, E. Collins, S. Susstrunk'
 ---
 ## Abstract
@@ -23,7 +23,7 @@ and class-invariance.
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ base_path }}{{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

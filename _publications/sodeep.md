@@ -7,10 +7,10 @@ permalink: /publications/sodeep
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-06-15
 venue: 'CVPR'
-paperurl: 'http://m-eng.github.io/files/papers/Engilberge et al. - 2019 - SoDeep A Sorting Deep Net to Learn Ranking Loss S.pdf'
+paperurl: '/files/papers/Engilberge et al. - 2019 - SoDeep A Sorting Deep Net to Learn Ranking Loss S.pdf'
 codeurl: 'https://github.com/M-Eng/sodeep'
-posterurl: 'http://m-eng.github.io/files/posters/sodeep_poster.pdf'
-talkurl: 'http://m-eng.github.io/files/talks/sodeep-slides.pdf'
+posterurl: '/files/posters/sodeep_poster.pdf'
+talkurl: '/files/talks/sodeep-slides.pdf'
 authors: 'M. Engilberge, L. Chevallier, P. Pérez, M. Cord'
 ---
 ## Abstract
@@ -32,7 +32,7 @@ as a proxy for sorting operation in ranking-based losses.
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

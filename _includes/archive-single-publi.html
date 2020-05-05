@@ -49,19 +49,19 @@
 
     <div class="archive__item-links">
     {% if post.paperurl %}
-        <a href=" {{ post.paperurl }} " class="btn btn--info">Paper</a>
+        <a href=" {{ base_path }}{{ post.paperurl }} " class="btn btn--info">Paper</a>
     {% endif %}
     {% if post.codeurl %}
-        <a href=" {{ post.codeurl }} " class="btn btn--info">Code</a>
+        <a href=" {{ base_path }}{{ post.codeurl }} " class="btn btn--info">Code</a>
     {% endif %}
     {% if post.dataurl %}
-        <a href=" {{ post.dataurl }} " class="btn btn--info">Data</a>
+        <a href=" {{ base_path }}{{ post.dataurl }} " class="btn btn--info">Data</a>
     {% endif %}
     {% if post.posterurl %}
-        <a href=" {{ post.posterurl }} " class="btn btn--info">Poster</a>
+        <a href=" {{ base_path }}{{ post.posterurl }} " class="btn btn--info">Poster</a>
     {% endif %}
     {% if post.talkurl %}
-        <a href=" {{ post.talkurl }} " class="btn btn--info">Slides</a>
+        <a href=" {{ base_path }}{{ post.talkurl }} " class="btn btn--info">Slides</a>
     {% endif %}
     </div>
   </div>

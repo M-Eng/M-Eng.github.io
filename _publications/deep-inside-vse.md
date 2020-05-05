@@ -7,7 +7,7 @@ permalink: /publications/deep-inside-vse
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04-03
 venue: 'PhD Thesis'
-paperurl: 'http://m-eng.github.io/files/papers/Engilberge - 2020 - Deep Inside Visual-Semantic Embeddings.pdf'
+paperurl: '/files/papers/Engilberge - 2020 - Deep Inside Visual-Semantic Embeddings.pdf'
 authors: 'M. Engilberge'
 ---
 ## Abstract
@@ -23,7 +23,7 @@ in particular the loss function.
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ base_path }}{{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 
