@@ -17,7 +17,8 @@ In addition to my research activity, I am passionate about music, and on an endl
 
 ### News
 
-* 2020.05 - Currently looking for a postdoc in machine learning / computer vision.
+* 2020.07 - Currently looking for a postdoc in machine learning / computer vision.
+* 2020.06 - Successfully defended my [thesis](http://martin.engilberge.io/publications/deep-inside-vse) !
 * 2020.04 - Scientific seminar on Visual-Semantic Embeddings at Interdigital. 
 * 2019.09 - Interdigital Best publication award for [Beans in burger](http://m-eng.github.io/publications/beans-in-burger).
 * 2019.06 - [VideoMem](http://m-eng.github.io/publications/videomem) paper accepted at ICCV 2019.
