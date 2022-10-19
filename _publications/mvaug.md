@@ -34,10 +34,10 @@ M. Engilberge, H. Shi, Z. Wang, and P. Fua, “Two-level Data Augmentation for C
 **BibTex:**
 ~~~~~~~~
 @inproceedings{engilber2023two,
-	  title={Two-level Data Augmentation for Calibrated Multi-view Detection},
-	  author={Engilberge, Martin and Shi, Haixin and Wang, Zhiye and Fua, Pascal},
-	  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-	  year={2023}
+  title={Two-level Data Augmentation for Calibrated Multi-view Detection},
+  author={Engilberge, Martin and Shi, Haixin and Wang, Zhiye and Fua, Pascal},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  year={2023}
 }
 ~~~~~~~~
 </div>
