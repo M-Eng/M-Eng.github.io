@@ -8,6 +8,7 @@ permalink: /publications/mvflow
 date: 2023-01-03
 venue: 'WACV'
 paperurl: '/files/papers/Engilberge et al. - 2023 - Multi-view Tracking Using Weakly Supervised Human Motion Prediction.pdf'
+suppurl: '/files/supplementaries/Engilberge et al. - 2023 - Supplementary Multi-view Tracking Using Weakly Supervised Human Motion Prediction.pdf'
 codeurl: 'https://github.com/cvlab-epfl/MVFlow'
 # posterurl: '/files/posters/bean-poster.pdf'
 # talkurl: '/files/talks/bean-slides.pdf'
@@ -19,7 +20,7 @@ Multi-view approaches to people-tracking have the potential to better handle occ
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.suppurl %} [Suppl.]({{ base_path }}{{ page.suppurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

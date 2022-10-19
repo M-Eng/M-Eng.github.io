@@ -8,6 +8,7 @@ permalink: /publications/mvaug
 date: 2023-01-03
 venue: 'WACV'
 paperurl: '/files/papers/Engilberge et al. - 2023 - Two-level Data Augmentation for Calibrated Multiview Detection.pdf'
+suppurl: '/files/supplementaries/Engilberge et al. - 2023 - Supplementary Two-level Data Augmentation for Calibrated Multiview Detection.pdf'
 codeurl: 'https://github.com/cvlab-epfl/MVAug'
 # posterurl: '/files/posters/bean-poster.pdf'
 # talkurl: '/files/talks/bean-slides.pdf'
@@ -20,7 +21,7 @@ In this work we propose to solve this issue by introducing a new multi-view data
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.suppurl %} [Suppl.]({{ base_path }}{{ page.suppurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Slides]({{ base_path }}{{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 
