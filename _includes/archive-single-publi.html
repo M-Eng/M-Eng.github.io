@@ -51,6 +51,9 @@
     {% if post.paperurl %}
         <a href=" {{ base_path }}{{ post.paperurl }} " class="btn btn--info">Paper</a>
     {% endif %}
+    {% if post.suppurl %}
+        <a href=" {{ base_path }}{{ post.suppurl }} " class="btn btn--info">Suppl.</a>
+    {% endif %}
     {% if post.codeurl %}
         <a href=" {{ post.codeurl }} " class="btn btn--info">Code</a>
     {% endif %}
