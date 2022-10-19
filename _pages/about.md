@@ -17,6 +17,7 @@ In addition to my research activity, I am passionate about music, and on an endl
 
 ### News
 
+* 2022.10 - Two papers accepted at WACV 2023, [MVAug](http://m-eng.github.io/publications/mvaug) and [MVFlow](http://m-eng.github.io/publications/mvflow)
 * 2020.11 - Starting a postdoc in the CVLab at EPFL 
 <!-- * 2020.07 - Currently looking for a postdoc in machine learning / computer vision. -->
 * 2020.06 - Successfully defended my [thesis](http://martin.engilberge.io/publications/deep-inside-vse) !
