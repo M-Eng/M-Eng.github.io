@@ -17,11 +17,11 @@ In addition to my research activity, I am passionate about music, and on an endl
 
 ### News
 
-* 2023.06 - Two papers accepted at CVPR 2023, [CLIP the Gap](https://github.com/vidit09/domaingen) and [GeoShift](https://github.com/vidit09/geoshift)
+* 2023.06 - Two papers accepted at CVPR 2023, [CLIP the Gap](http://m-eng.github.io/publications/clip-the-gapn) and [GeoShift](http://m-eng.github.io/publications/publications/geo-shift)
 * 2022.10 - Two papers accepted at WACV 2023, [MVAug](http://m-eng.github.io/publications/mvaug) and [MVFlow](http://m-eng.github.io/publications/mvflow)
 * 2020.11 - Starting a postdoc in the CVLab at EPFL 
 <!-- * 2020.07 - Currently looking for a postdoc in machine learning / computer vision. -->
-* 2020.06 - Successfully defended my [thesis](http://martin.engilberge.io/publications/deep-inside-vse) !
+* 2020.06 - Successfully defended my [thesis](http://m-eng.github.io/publications/publications/deep-inside-vse) !
 * 2020.04 - Scientific seminar on Visual-Semantic Embeddings at Interdigital. 
 * 2019.09 - Interdigital Best publication award for [Beans in burger](http://m-eng.github.io/publications/beans-in-burger).
 * 2019.06 - [VideoMem](http://m-eng.github.io/publications/videomem) paper accepted at ICCV 2019.
