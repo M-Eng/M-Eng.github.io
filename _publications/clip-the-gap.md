@@ -11,7 +11,8 @@ paperurl: '/files/papers/Vidit et al. - 2023 - CLIP the Gap  A Single Domain Gen
 suppurl: '/files/supplementaries/Vidit et al. - 2023 - Supplementary CLIP the Gap  A Single Domain Generalization Approach for Object Detection.pdf'
 codeurl: 'https://github.com/vidit09/domaingen'
 posterurl: '/files/posters/clipthegap-poster.pdf'
-talkurl: 'https://www.youtube.com/watch?v=WDUu3gar4hY&ab_channel=Vidits'
+# talkurl: '/files/talks/bean-slides.pdf'
+videourl: 'https://www.youtube.com/watch?v=WDUu3gar4hY&ab_channel=Vidits'
 authors: 'Vidit, M. Engilberge, M. Salzmann'
 
 
@@ -23,7 +24,7 @@ Single Domain Generalization (SDG) tackles the problem of training a model on a 
 
 ## Links
 
-{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.suppurl %} [Suppl.]({{ base_path }}{{ page.suppurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Talk]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
+{% if page.paperurl %} [Paper]({{ base_path }}{{ page.paperurl }}){: .btn .btn--info} {% endif %} {% if page.suppurl %} [Suppl.]({{ base_path }}{{ page.suppurl }}){: .btn .btn--info} {% endif %} {% if page.codeurl %} [Code]({{ page.codeurl }}){: .btn .btn--info} {% endif %} {% if page.dataurl %} [Data]({{ base_path }}{{ page.dataurl }}){: .btn .btn--info} {% endif %} {% if page.posterurl %} [Poster]({{ base_path }}{{ page.posterurl }}){: .btn .btn--info} {% endif %} {% if page.videourl %} [Video]({{ page.videourl }}){: .btn .btn--info} {% endif %} {% if page.talkurl %} [Talk]({{ page.talkurl }}){: .btn .btn--info} {% endif %}
 
 ## Citation
 

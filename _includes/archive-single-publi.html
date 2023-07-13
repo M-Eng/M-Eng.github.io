@@ -63,6 +63,9 @@
     {% if post.posterurl %}
         <a href=" {{ base_path }}{{ post.posterurl }} " class="btn btn--info">Poster</a>
     {% endif %}
+    {% if post.videourl %}
+    <a href="{{ post.videourl }} " class="btn btn--info">Video</a>
+    {% endif %}
     {% if post.talkurl %}
         <a href=" {{ base_path }}{{ post.talkurl }} " class="btn btn--info">Slides</a>
     {% endif %}
