@@ -7,8 +7,8 @@ permalink: /publications/clip-the-gap
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-06-20
 venue: 'CVPR'
-paperurl: '/files/papers/Vidit et al. - 2023 - CLIP the Gap  A Single Domain Generalization Approach for Object Detection.pdf'
-suppurl: '/files/supplementaries/Vidit et al. - 2023 - Supplementary CLIP the Gap  A Single Domain Generalization Approach for Object Detection.pdf'
+paperurl: '/files/papers/Vidit et al. - 2023 - CLIP the Gap A Single Domain Generalization Approach for Object Detection.pdf'
+suppurl: '/files/supplementaries/Vidit et al. - 2023 - Supplementary CLIP the Gap A Single Domain Generalization Approach for Object Detection.pdf'
 codeurl: 'https://github.com/vidit09/domaingen'
 posterurl: '/files/posters/clipthegap-poster.pdf'
 # talkurl: '/files/talks/bean-slides.pdf'
