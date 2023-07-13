@@ -17,7 +17,7 @@ In addition to my research activity, I am passionate about music, and on an endl
 
 ### News
 
-* 2023.06 - Two papers accepted at CVPR 2023, [CLIP the Gap](http://m-eng.github.io/publications/clip-the-gapn) and [GeoShift](http://m-eng.github.io/publications/publications/geo-shift)
+* 2023.06 - Two papers accepted at CVPR 2023, [CLIP the Gap](http://m-eng.github.io/publications/clip-the-gap) and [GeoShift](http://m-eng.github.io/publications/geo-shift)
 * 2022.10 - Two papers accepted at WACV 2023, [MVAug](http://m-eng.github.io/publications/mvaug) and [MVFlow](http://m-eng.github.io/publications/mvflow)
 * 2020.11 - Starting a postdoc in the CVLab at EPFL 
 <!-- * 2020.07 - Currently looking for a postdoc in machine learning / computer vision. -->
