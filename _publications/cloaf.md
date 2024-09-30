@@ -1,6 +1,6 @@
 ---
 header:
-  teaser: "cloaf-teaser.pdf"
+  teaser: "cloaf-teaser.png"
 title: "CLOAF: CoLlisiOn-Aware Human Flow"
 collection: publications
 permalink: /publications/cloaf
@@ -10,7 +10,7 @@ venue: 'CVPR'
 paperurl: '/files/papers/Davydov Andrey et al. - 2024 - CLOAF - CoLlisiOn-Aware Human Flow.pdf'
 suppurl: '/files/supplementaries/Davydov Andrey et al. - 2024 - Supplementary CLOAF - CoLlisiOn-Aware Human Flow.pdf'
 # codeurl: 'https://github.com/cvlab-epfl/CLOAF'
-posterurl: '/files/posters/cloaf-poster.pdf'
+posterurl: '/files/posters/cloaf-poster.png'
 # talkurl: '/files/talks/bean-slides.pdf'
 # videourl: 'https://www.youtube.com/watch?v=WDUu3gar4hY&ab_channel=Vidits'
 authors: 'D. Andrey, M. Engilberge, M. Salzmann, and P. Fua.'
