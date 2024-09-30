@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Since November 2020 I am a postdoctoral researcher in the [CVLAB](https://www.epfl.ch/labs/cvlab/) at EPFL, Switzerland. Previously, I did a PhD in Machine Learning while working at Technicolor/Interdigital and Sorbonne University. 
-Before starting doctoral studies, I received a master’s degree in Computer Science from EPFL.  
-On this site you will find my research projects with their papers, codes, talks and slides whenever available.
+Since November 2020, I have been a postdoctoral researcher in the [CVLAB](https://www.epfl.ch/labs/cvlab/) at EPFL, Switzerland. Prior to this, I completed my PhD in Machine Learning while working at Technicolor/Interdigital and Sorbonne University. 
+Before embarking on my doctoral studies, I obtained a master's degree in Computer Science from EPFL.  
+On this site, you will find my research projects along with their associated papers, code repositories, talks, and slides, whenever available.
 
-In addition to my research activity, I am passionate about music, and on an endless path to improve my guitar skills. I also appreciate the DIY spirit and dabbled in Guitar building, CNC building and machining, 3D printing and other electronic projects. 
+Beyond my research activities, I am passionate about music and am on a continuous journey to enhance my guitar skills. I also have a keen interest in DIY projects, having explored areas such as guitar building, CNC machine construction and operation, 3D printing, and various electronic projects. These hands-on experiences complement my academic pursuits and fuel my curiosity for practical applications of technology.
 
 
 ### News
-
+* 2024.09 - Open to work: I am looking for a position in machine learning/computer vision starting early 2025.
+* 2024.06 - Two papers accepted at CVPR and CVPRW 2024, [CLOAF](http://m-eng.github.io/publications/cloaf) and [Addressing the Elephant in the Room](http://m-eng.github.io/publications/elephant-in-the-room)
 * 2023.06 - Two papers accepted at CVPR 2023, [CLIP the Gap](http://m-eng.github.io/publications/clip-the-gap) and [GeoShift](http://m-eng.github.io/publications/geo-shift)
 * 2022.10 - Two papers accepted at WACV 2023, [MVAug](http://m-eng.github.io/publications/mvaug) and [MVFlow](http://m-eng.github.io/publications/mvflow)
 * 2020.11 - Starting a postdoc in the CVLab at EPFL 

@@ -14,13 +14,15 @@ author_profile: true
 
 {% include base_path %}
 
-My primary research interests are in the fields of Machine Learning, Computer Vision and Natural Language Processing.  
+My primary research interests lie in the fields of Machine Learning, Computer Vision, and Natural Language Processing.
 
-From 2017 to 2020, I did a PhD thesis focused on joint visual and textual learning, specifically on Visual-Semantic Embeddings (VSE).  
-I was advised by [Matthieu Cord](http://webia.lip6.fr/~cord/), [Patrick Pérez](https://ptrckprz.github.io/) and Louis Chevallier.  
-During this time I worked on multimodal representation learning applied to multiple tasks: cross-modal retrieval, phrase grounding, ranking optimization, known instance search and iterative search.  
+Since 2020, I have been working on diverse topics in machine learning and computer vision. My research encompasses object detection and tracking, domain adaptation/generalization, 3D geometry, and scene understanding.
 
-I am excited about the upcoming research challenges, with a keen interest in exploring self-supervised and reasoning methods to bring multimodal interaction to the next level.
+From 2017 to 2020, I completed my PhD thesis, which focused on joint visual and textual learning, with a specific emphasis on Visual-Semantic Embeddings (VSE). During this period, I was fortunate to be advised by [Matthieu Cord](http://webia.lip6.fr/~cord/), [Patrick Pérez](https://ptrckprz.github.io/), and Louis Chevallier.
+
+My doctoral research centered on multimodal representation learning, applying it to various tasks including cross-modal retrieval, phrase grounding, ranking optimization, known instance search, and iterative search.
+
+Looking ahead, I am enthusiastic about tackling emerging research challenges. I have a particular interest in embodied AI, multimodal interaction, and 3D scene understanding, areas that I believe will play crucial roles in shaping the future of artificial intelligence and computer vision.
 
 # Projects
 
